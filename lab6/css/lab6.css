@@ -1,0 +1,40 @@
+/*
+*       Author:				Justin Dubin
+*		Date:				2.21.22
+*		Last revised:		2.21.22
+*   	Assignment:			Lab 6
+*		Purpose:			Tables
+*/
+
+body {
+    background-color: #226666;
+    color: #407F7F;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    background-color: #003333;
+    width: 800px;
+    margin: auto;
+    padding: 10px 15px;
+    border-width: 4px;
+    border-color: white;
+    border-style: solid;
+}
+
+h2 {
+    font-family: oblique;
+}
+
+table {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid #fff;
+    border-collapse: collapse;
+}
+
+td, th {
+    text-align: center;
+    border: 1px solid #fff;
+    padding: 4px;
+}
